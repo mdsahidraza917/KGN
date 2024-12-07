@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <div className="header">
-        <img src="src\assets\cover.png" alt="No Image"className='logo' />
+        <img src="https://ibb.co/By9rH12" alt="No Image"className='logo' />
       </div>
     </div>
   )
